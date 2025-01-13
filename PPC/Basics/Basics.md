@@ -1,6 +1,10 @@
 # Basics
 ## Challenge Description
 This challenge requires us to compute the square of a given number 100 times and return the correct result for each input. If we succeed in doing so, we will receive the flag. We can do this using a Python library called **pwntools**.
+On running the netcat command we see something like this-
+
+<img width="531" alt="Screenshot 2025-01-13 at 8 23 19 PM" src="https://github.com/user-attachments/assets/2d4abf8e-567c-4cd6-8c76-e5024701bf8d" />
+
 ## Understanding The Task
 - The challenge will provide an integer input.
 - You need to compute the square of the given integer.
