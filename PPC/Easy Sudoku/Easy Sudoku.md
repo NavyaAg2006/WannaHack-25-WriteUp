@@ -100,3 +100,8 @@ int main() {
 ```
 
 now we just give the sudoku puzzles as input and get our solved puzzle and get the flag!
+
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/62e00bdc-2bd4-46e2-b480-cf06910a67e4" />
+
+## Flag
+> WannaHack{Very_3Ay_sud0KU_indE3D_0ektwP6J}
